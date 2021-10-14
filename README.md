@@ -1,4 +1,4 @@
-# ASSIGNMENT Team Roster
+# Team Roster
 For this project you will be building a team roster for a sports team.  Pick any team sport you want.  Theme your project based on the sport.
 
 ## Requirements
