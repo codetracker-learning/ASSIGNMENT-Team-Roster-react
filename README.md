@@ -23,7 +23,7 @@ Here are the user stories that need to be completed:
 * As a user if I click the NEW link in the navbar, I should navigate to '/new' and see an h1 tag that says 'Add a Player'.
 
 ### CREATE Players
-* As an authenticated user, I should be able to click a link in the navbar that displays a form to add a new player.
+* As an authenticated user, I should be able to click the NEW link in the navbar that displays a form to add a new player.
 * As an authenticated user, when I fill out the form and submit a new Player should be created in firebase and should now show in my Team view.
 
 ### READ Players
