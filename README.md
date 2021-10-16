@@ -32,7 +32,7 @@ Here are the user stories that need to be completed:
 
 ### UPDATE Players
 * As an authenticated user, I should be able to see an edit button on each player card.
-* As an authenticated user, when I click the edit button I should see a form with the player information for that user pre-populated.
+* As an authenticated user, when I click the edit button I should see a form with the player information pre-populated in the form.
 * As an authenticated user, I should be able to edit the information in the form and hit the submit button.
 * As an authenticated user, when I submit the edit form firebase should be updated (PATCH request) and the Team view should update
 
