@@ -13,10 +13,10 @@ Here is the ERD for this project:
 Here are the user stories that need to be completed:
 ### Authentication
 * As a user, who is logged out, I should only be able to see the authentication screen
-* As a user who is logged out, I would like to be able to authenticate by clicking on a button.
 * As a user who is logged out, I would like to be able to click on an authentication button and login via google.
 * As a user who is logged in, I should not be able to see the authentication button.
 * As a user who is logged in, I should be able to see the Team view.
+* As a user who is logged in, I should be able to see a log out button
 
 ### Routing
 * As a user if I click the TEAM link in the navbar, I should navigate to '/team' and see an h1 tag that says 'Team'.
